@@ -1,0 +1,16 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.json",
+  "name": "io.github.dataleadspro/ai-model-pricing",
+  "description": "Live pricing data for AI models across vendors: input/output prices per 1k tokens as JSON.",
+  "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/DataLeadsPRO/ai-model-pricing",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://data.dataleads.pro/mcp/ai-model-pricing"
+    }
+  ]
+}
