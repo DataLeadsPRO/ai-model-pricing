@@ -24,4 +24,4 @@ jobs:
       - uses: docker/build-push-action@v6
         with:
           push: true
-          tags: ghcr.io/dataleads/ai-model-pricing-mcp:latest
+          tags: ghcr.io/dataleadspro/ai-model-pricing-mcp:latest
