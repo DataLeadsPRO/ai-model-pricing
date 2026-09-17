@@ -1,0 +1,8 @@
+[
+  {
+    "name": "ai_models",
+    "method": "POST",
+    "path": "/ai/models",
+    "description": "V1 Ai Models"
+  }
+]
